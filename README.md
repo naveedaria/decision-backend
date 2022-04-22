@@ -1,4 +1,4 @@
- ## Fork of REST API of Where To? for Hosting purposes
+ ## Fork of REST API of Where To? fur Deployment
  
  ## REST API for Where To?
  
