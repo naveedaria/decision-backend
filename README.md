@@ -1,3 +1,5 @@
+ ## Fork of REST API of Where To? for Hosting purposes
+ 
  ## REST API for Where To?
  
  Built using Node, Express, MongoDB. Utilizes the Google Places API
